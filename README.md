@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="assets/hero.svg" width="100%" alt="John Casana — AI Developer e Ingeniero Electrónico"/>
-  <p><strong>IA generativa · Agentes · Backend · Automatización</strong></p>
+  <img src="assets/hero.svg" width="100%" alt="John Casana — AI Developer · Software Developer"/>
+  <p><strong>Soluciones de IA · Agentes · Automatización</strong></p>
   <p>
     <a href="https://www.linkedin.com/in/johncasana/">LinkedIn</a> ·
     <a href="mailto:johncasana83@gmail.com">Correo</a>
@@ -11,14 +11,13 @@
 
 ## Sobre mí
 
-Soy **John Casana**, egresado de Ingeniería Electrónica de la **Universidad Nacional de Ingeniería (UNI)**, del quinto superior de mi promoción, y desarrollador enfocado en **IA generativa**.
+Soy **John Casana**, **AI Developer** enfocado en el desarrollo de soluciones de **inteligencia artificial**.
 
-Desarrollo asistentes conversacionales, agentes y herramientas de automatización para resolver necesidades de atención, consulta de información y análisis de datos. Mi formación en electrónica me permite abordar soluciones de punta a punta: desde una PCB hasta una aplicación en la nube.
+Desarrollo asistentes conversacionales, agentes y herramientas de automatización para resolver necesidades de atención, consulta de información y análisis de datos.
 
 El **desarrollo asistido por IA** forma parte de mi trabajo diario: uso **Codex, Claude y Claude Design**, e integro **skills, MCP, hooks y Artifacts** en mi flujo de trabajo para desarrollar soluciones, conectar herramientas y automatizar tareas.
 
 - **Ubicación:** Lima, Perú
-- **Formación:** Ingeniería Electrónica, UNI
 - **Idiomas:** español e inglés
 
 <img src="assets/divider.svg" width="100%" alt=""/>
@@ -50,26 +49,26 @@ Asistente conversacional que atiende consultas por **WhatsApp** y desde un **wid
 
 <!-- Guiño al hexágono de Nen de Hunter × Hunter; representa áreas, no niveles de dominio. -->
 <div align="center">
-  <img src="assets/radar.svg" width="680" alt="Seis áreas de trabajo: cloud, datos, backend, IA generativa, agentes y electrónica"/>
+  <img src="assets/radar.svg" width="680" alt="Seis áreas de trabajo: cloud, datos, integraciones, IA generativa, agentes y desarrollo asistido por IA"/>
 </div>
 
-Mi enfoque principal es **IA generativa, agentes y backend**. Estas son las herramientas y áreas con las que trabajo:
+Mi enfoque principal es crear **soluciones de IA, agentes y automatización**. Estas son las herramientas y áreas con las que trabajo:
 
 | Área | Herramientas y conceptos |
 | :-- | :-- |
 | **Desarrollo asistido por IA** | Codex, Claude, Claude Design, skills, MCP, hooks, Artifacts |
 | **GenAI y RAG** | Gemini, Vertex AI, embeddings, chunking, bases vectoriales (Qdrant, Pinecone, Supabase), Hugging Face |
 | **Agentes y automatización** | Model Context Protocol (MCP), n8n, Copilot Studio, Dialogflow, watsonx Assistant, Power Automate, Power Apps |
-| **Backend y APIs** | Python, FastAPI, TypeScript, Node.js, webhooks, streaming SSE, pytest |
+| **Integración de soluciones** | Python, FastAPI, TypeScript, Node.js, webhooks, streaming SSE, pytest |
 | **Datos y ML** | SQL y PL/SQL, PySpark, pandas, NumPy, matplotlib, Power BI, TensorFlow, deep learning, NLP |
 | **Cloud y DevOps** | GCP (Cloud Run, Firestore, Cloud Tasks), AWS (Glue, S3), Azure DevOps, Docker, Terraform, Git |
-| **Frontend y electrónica** | Angular, HTML, CSS y JavaScript, diseño y fabricación de PCB |
+| **Aplicaciones e interfaces** | Angular, HTML, CSS y JavaScript |
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 ## Formación complementaria
 
-Cursos, entrenamientos y evaluaciones que complementan mi formación universitaria.
+Cursos, entrenamientos y evaluaciones en IA, automatización, cloud y desarrollo de software.
 
 <details>
 <summary>Ver formación por área</summary>
@@ -92,8 +91,7 @@ Cursos, entrenamientos y evaluaciones que complementan mi formación universitar
 | | Análisis de datos con Python (NumPy y pandas) | Código Facilito | 2024 |
 | | SQL (Intermediate) | HackerRank | 2025 |
 | | Excel y Power BI | Cámara de Comercio Exterior | 2024 |
-| **Electrónica e idiomas** | Diseño y fabricación de PCB | CTIC UNI | 2023 |
-| | Examen de suficiencia de inglés | UNI | 2022 |
+| **Idiomas** | Examen de suficiencia de inglés | UNI | 2022 |
 
 </details>
 
@@ -101,7 +99,7 @@ Cursos, entrenamientos y evaluaciones que complementan mi formación universitar
 
 ## Contacto
 
-Si quieres conversar sobre un proyecto de IA, automatización o backend, puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/johncasana/) o escribirme a [johncasana83@gmail.com](mailto:johncasana83@gmail.com).
+Si quieres conversar sobre una solución de IA o automatización, puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/johncasana/) o escribirme a [johncasana83@gmail.com](mailto:johncasana83@gmail.com).
 
 <div align="center">
   <a href="https://tenor.com/view/gon-killua-gif-27143679">
