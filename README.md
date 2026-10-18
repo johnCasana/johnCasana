@@ -15,6 +15,8 @@ Soy **John Casana**, egresado de Ingeniería Electrónica de la **Universidad Na
 
 Desarrollo asistentes conversacionales, agentes y herramientas de automatización para resolver necesidades de atención, consulta de información y análisis de datos. Mi formación en electrónica me permite abordar soluciones de punta a punta: desde una PCB hasta una aplicación en la nube.
 
+El **desarrollo asistido por IA** forma parte de mi trabajo diario: uso **Codex, Claude y Claude Design**, e integro **skills, MCP, hooks y Artifacts** en mi flujo de trabajo para desarrollar soluciones, conectar herramientas y automatizar tareas.
+
 - **Ubicación:** Lima, Perú
 - **Formación:** Ingeniería Electrónica, UNI
 - **Idiomas:** español e inglés
@@ -55,6 +57,7 @@ Mi enfoque principal es **IA generativa, agentes y backend**. Estas son las herr
 
 | Área | Herramientas y conceptos |
 | :-- | :-- |
+| **Desarrollo asistido por IA** | Codex, Claude, Claude Design, skills, MCP, hooks, Artifacts |
 | **GenAI y RAG** | Gemini, Vertex AI, embeddings, chunking, bases vectoriales (Qdrant, Pinecone, Supabase), Hugging Face |
 | **Agentes y automatización** | Model Context Protocol (MCP), n8n, Copilot Studio, Dialogflow, watsonx Assistant, Power Automate, Power Apps |
 | **Backend y APIs** | Python, FastAPI, TypeScript, Node.js, webhooks, streaming SSE, pytest |
