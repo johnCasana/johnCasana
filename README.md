@@ -104,5 +104,7 @@ Cursos, entrenamientos y evaluaciones que complementan mi formación universitar
 Si quieres conversar sobre un proyecto de IA, automatización o backend, puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/johncasana/) o escribirme a [johncasana83@gmail.com](mailto:johncasana83@gmail.com).
 
 <div align="center">
-  <img src="assets/footer.svg" width="100%" alt="Nos vemos en el próximo examen."/>
+  <a href="https://tenor.com/view/gon-killua-gif-27143679">
+    <img src="assets/gon-killua.gif" width="120" alt="Gon y Killua saludándose, de Hunter × Hunter"/>
+  </a>
 </div>
