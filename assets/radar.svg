@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="520" viewBox="0 0 720 520" role="img" aria-label="Radar de habilidades">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#10151d"/><stop offset="1" stop-color="#0a0e14"/></linearGradient>
+  <radialGradient id="fill" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#5aa9ff" stop-opacity=".35"/><stop offset="1" stop-color="#d9b45a" stop-opacity=".30"/></radialGradient>
+</defs>
+<style>
+  text { font-family: 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+  .dot { opacity: 0; animation: pop .5s ease-out forwards; }
+  .lbl { opacity: 0; animation: fade .8s ease-out forwards; }
+  @keyframes pop  { from { opacity: 0; } to { opacity: 1; } }
+  @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .dot, .lbl { opacity: 1; } }
+</style>
+<rect width="720" height="520" rx="16" fill="url(#bg)"/>
+<rect x=".5" y=".5" width="719" height="519" rx="16" fill="none" stroke="#2a3342"/>
+<circle cx="360" cy="260" r="204" fill="none" stroke="#d9b45a" stroke-opacity=".25" stroke-dasharray="2 8"><animateTransform attributeName="transform" type="rotate" from="0 360 260" to="360 360 260" dur="60s" repeatCount="indefinite"/></circle>
+<g fill="none" stroke="#8b98a9" stroke-opacity=".28" stroke-width="1">
+<polygon points="360.0,90.0 507.2,175.0 507.2,345.0 360.0,430.0 212.8,345.0 212.8,175.0"/>
+<polygon points="360.0,147.8 457.2,203.9 457.2,316.1 360.0,372.2 262.8,316.1 262.8,203.9"/>
+<polygon points="360.0,203.9 408.6,231.9 408.6,288.1 360.0,316.1 311.4,288.1 311.4,231.9"/>
+<line x1="360" y1="260" x2="360.0" y2="90.0"/>
+<line x1="360" y1="260" x2="507.2" y2="175.0"/>
+<line x1="360" y1="260" x2="507.2" y2="345.0"/>
+<line x1="360" y1="260" x2="360.0" y2="430.0"/>
+<line x1="360" y1="260" x2="212.8" y2="345.0"/>
+<line x1="360" y1="260" x2="212.8" y2="175.0"/>
+</g>
+<polygon points="360.0,124.0 485.1,187.8 492.5,336.5 360.0,421.5 227.5,336.5 249.6,196.2" fill="url(#fill)" stroke="#d9b45a" stroke-width="2" stroke-linejoin="round"><animate attributeName="points" from="360.0,260.0 360.0,260.0 360.0,260.0 360.0,260.0 360.0,260.0 360.0,260.0" to="360.0,124.0 485.1,187.8 492.5,336.5 360.0,421.5 227.5,336.5 249.6,196.2" dur="1.6s" begin="0.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .7 .2 1"/></polygon>
+<circle class="dot" style="animation-delay:1.4s" cx="360.0" cy="124.0" r="4.5" fill="#0a0e14" stroke="#5aa9ff" stroke-width="2"/>
+<circle class="dot" style="animation-delay:1.5s" cx="485.1" cy="187.8" r="4.5" fill="#0a0e14" stroke="#5aa9ff" stroke-width="2"/>
+<circle class="dot" style="animation-delay:1.6s" cx="492.5" cy="336.5" r="4.5" fill="#0a0e14" stroke="#5aa9ff" stroke-width="2"/>
+<circle class="dot" style="animation-delay:1.7s" cx="360.0" cy="421.5" r="4.5" fill="#0a0e14" stroke="#5aa9ff" stroke-width="2"/>
+<circle class="dot" style="animation-delay:1.8s" cx="227.5" cy="336.5" r="4.5" fill="#0a0e14" stroke="#5aa9ff" stroke-width="2"/>
+<circle class="dot" style="animation-delay:1.9s" cx="249.6" cy="196.2" r="4.5" fill="#0a0e14" stroke="#5aa9ff" stroke-width="2"/>
+<g class="lbl" style="animation-delay:1.2s" text-anchor="middle"><text x="360.0" y="50.0" font-size="14" font-weight="600" fill="#e6edf3">Cloud &amp; DevOps</text><text x="360.0" y="67.0" font-size="12" fill="#8b98a9">GCP · AWS · Azure · Docker</text></g>
+<g class="lbl" style="animation-delay:1.3s" text-anchor="start"><text x="534.0" y="161.0" font-size="14" font-weight="600" fill="#e6edf3">Data &amp; ML</text><text x="534.0" y="178.0" font-size="12" fill="#8b98a9">SQL · PySpark · TensorFlow</text></g>
+<g class="lbl" style="animation-delay:1.4s" text-anchor="start"><text x="534.0" y="355.0" font-size="14" font-weight="600" fill="#e6edf3">Backend &amp; APIs</text><text x="534.0" y="372.0" font-size="12" fill="#8b98a9">Python · FastAPI · Node</text></g>
+<g class="lbl" style="animation-delay:1.5s" text-anchor="middle"><text x="360.0" y="468.0" font-size="14" font-weight="600" fill="#e6edf3">GenAI &amp; RAG</text><text x="360.0" y="485.0" font-size="12" fill="#8b98a9">Gemini · Qdrant · Vertex AI</text></g>
+<g class="lbl" style="animation-delay:1.6s" text-anchor="end"><text x="186.0" y="355.0" font-size="14" font-weight="600" fill="#e6edf3">Agents &amp; Automation</text><text x="186.0" y="372.0" font-size="12" fill="#8b98a9">MCP · n8n · Copilot Studio</text></g>
+<g class="lbl" style="animation-delay:1.7s" text-anchor="end"><text x="186.0" y="161.0" font-size="14" font-weight="600" fill="#e6edf3">Frontend &amp; Electronics</text><text x="186.0" y="178.0" font-size="12" fill="#8b98a9">Angular · JS · PCB design</text></g>
+</svg>
